@@ -2,7 +2,7 @@
 name = "diango-tutorial"
 version = "0.1.0"
 description = ""
-authors = ["SHUSHU0925 <emo11280925@gmail.com>"]
+authors = ["Your Name <you@example.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
